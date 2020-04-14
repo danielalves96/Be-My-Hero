@@ -20,48 +20,15 @@ Esse projeto foi desenvolvido com base na Semana OmniStack 11.0, um evento da @R
 <table>
 	<tr>
 		<th width="100%">
-			<h2>Web Interface
-		</th>
-	</tr>
-		<tr>
-		<th>
-			Login page:<br>
+			Web Interface<br>
 		</th>
 	</tr>
 	<tr>
-		<td>
-			<img width="1080" src="https://github.com/danielalves96/be-my-hero/blob/master/screenshots/Login.jpeg">
-		</td>
-	</tr>
-	</tr>
-		<tr>
-		<th>
-			Register page:<br>
-		</th>
-	</tr>
-	<tr>
-		<td>
-			<img width="1080" src="https://github.com/danielalves96/be-my-hero/blob/master/screenshots/Register.jpeg">
-		</td>
-	</tr>
-	<tr>
-		<th>
-			Home page:<br>
-		</th>
-	</tr>
-	<tr>
-		<td>
-			<img width="1080" src="https://github.com/danielalves96/be-my-hero/blob/master/screenshots/Home.jpeg">
-		</td>
-	</tr>
-	<tr>
-		<th>
-			New incident page:<br>
-		</th>
-	</tr>
-	<tr>
-		<td>
-			<img width="1080" src="https://github.com/danielalves96/be-my-hero/blob/master/screenshots/Incident.jpeg?raw=true">
+		<td width="30%">
+			<img width="427" src="https://github.com/danielalves96/be-my-hero/blob/master/screenshots/Login.jpeg">
+			<img width="427" src="https://github.com/danielalves96/be-my-hero/blob/master/screenshots/Register.jpeg">
+			<img width="427" src="https://github.com/danielalves96/be-my-hero/blob/master/screenshots/Home.jpeg">
+			<img width="427" src="https://github.com/danielalves96/be-my-hero/blob/master/screenshots/Incident.jpeg?raw=true">
 		</td>
 	</tr>
 </table>
