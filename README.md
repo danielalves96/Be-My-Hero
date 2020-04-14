@@ -20,12 +20,48 @@ Esse projeto foi desenvolvimento durante a Semana OmniStack 11.0, um evento da @
 <table>
 	<tr>
 		<th width="100%">
-			Web Interface<br>
+			<h2>Web Interface
+		</th>
+	</tr>
+		<tr>
+		<th>
+			Login page:<br>
 		</th>
 	</tr>
 	<tr>
 		<td>
-			<img width="1080" src="https://raw.githubusercontent.com/danielnegrisolibatista/be-the-hero/master/screenshots/web.gif">
+			<img width="1080" src="https://github.com/danielalves96/be-my-hero/blob/master/screenshots/Login.jpeg">
+		</td>
+	</tr>
+	</tr>
+		<tr>
+		<th>
+			Register page:<br>
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<img width="1080" src="https://github.com/danielalves96/be-my-hero/blob/master/screenshots/Register.jpeg">
+		</td>
+	</tr>
+	<tr>
+		<th>
+			Home page:<br>
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<img width="1080" src="https://github.com/danielalves96/be-my-hero/blob/master/screenshots/Home.jpeg">
+		</td>
+	</tr>
+	<tr>
+		<th>
+			New incident page:<br>
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<img width="1080" src="https://github.com/danielalves96/be-my-hero/blob/master/screenshots/Incident.jpeg?raw=true">
 		</td>
 	</tr>
 </table>
