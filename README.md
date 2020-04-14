@@ -24,11 +24,11 @@ Esse projeto foi desenvolvido com base na Semana OmniStack 11.0, um evento da @R
 		</th>
 	</tr>
 	<tr>
-		<td width="30%">
-			<img width="427" src="https://github.com/danielalves96/be-my-hero/blob/master/screenshots/Login.jpeg">
-			<img width="427" src="https://github.com/danielalves96/be-my-hero/blob/master/screenshots/Register.jpeg">
-			<img width="427" src="https://github.com/danielalves96/be-my-hero/blob/master/screenshots/Home.jpeg">
-			<img width="427" src="https://github.com/danielalves96/be-my-hero/blob/master/screenshots/Incident.jpeg?raw=true">
+		<td width="50%">
+			<img width="49.5%" src="https://raw.githubusercontent.com/danielalves96/be-my-hero/master/screenshots/Login.jpeg">
+			<img width="49.5%" src="https://raw.githubusercontent.com/danielalves96/be-my-hero/master/screenshots/Register.jpeg">
+			<img width="49.5%" src="https://raw.githubusercontent.com/danielalves96/be-my-hero/master/screenshots/Home.jpeg">
+			<img width="49.5%" src="https://raw.githubusercontent.com/danielalves96/be-my-hero/master/screenshots/Incident.jpeg">
 		</td>
 	</tr>
 </table>
